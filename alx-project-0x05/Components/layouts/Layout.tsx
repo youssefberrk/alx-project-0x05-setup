@@ -1,4 +1,3 @@
-import { LayoutProps } from "@/interface";
 import { ReactNode } from "react";
 import Footer from "./Footer";
 import Header from "./Header";
