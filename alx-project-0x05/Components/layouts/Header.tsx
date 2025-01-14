@@ -11,7 +11,7 @@ const Header: React.FC = () => {
     <header className="p-4 bg-gray-800 text-white flex justify-between items-center">
       {/* Logo */}
       <Link href="/">
-        <a className="text-2xl font-bold">Splash App</a>
+        <p className="text-2xl font-bold">Splash App</p>
       </Link>
 
       {/* Button Group */}
